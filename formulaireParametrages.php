@@ -37,10 +37,7 @@
                         </form>
   
                     <?php exit(); ?>
-                <?php else : ?>
-                    <p> "Veuillez choisir une seule option ! " </p>
-                    <?php header("Location: /formulaireParametrages.php"); ?>
-                    <?php exit(); ?>
+        
                 <?php endif ?>  
         </main>
     </body>

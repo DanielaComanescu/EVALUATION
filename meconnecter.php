@@ -20,11 +20,11 @@
             
             <form action="controllers/login.php" method="POST">
                 <label for="name_id"> Votre identifiant </label> 
-                    <input type="text" id="identity" name="name_id" value="Daniela">
+                    <input type="text" id="identity" name="name_id" value="Thomas">
                 
                 <br>
                 <label for="password"> Mot de passe </label> 
-                    <input type="password" id="pass" name="password" value="9876">
+                    <input type="password" id="pass" name="password" value="moiThomas">
                 <br>
 
                 <button type="submit" class="btn btn-primary"> Se connecter </button>
